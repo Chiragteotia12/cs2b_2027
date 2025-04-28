@@ -12,7 +12,7 @@ const Navbar = () => {
           </button>
         </div>
         <NavLinks />
-        <SocialIcons/>
+        <SocialIcons />
       </div>
     </nav>
   );

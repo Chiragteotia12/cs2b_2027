@@ -1,11 +1,9 @@
+import Heading from "./Heading";
+
 const Tours = () => {
   return (
     <section class="section" id="tours">
-      <div class="section-title">
-        <h2>
-          featured <span>tours</span>
-        </h2>
-      </div>
+      <Heading btitle="featured" gtitle="tours" />
 
       <div class="section-center featured-center">
         <article class="tour-card">
